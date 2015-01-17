@@ -47,3 +47,9 @@ open this project in Sublime Text
 open up `Main.hx`
 
 ctrl + shift + b
+
+#### With Command Line
+
+````
+lime test neko 
+````
