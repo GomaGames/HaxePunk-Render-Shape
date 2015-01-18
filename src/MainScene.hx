@@ -4,8 +4,8 @@ import com.haxepunk.graphics.Image;
 
 class MainScene extends Scene
 {
-	public override function begin()
-	{
+  public override function begin()
+  {
 
     /*
       Create a new Entity
@@ -43,5 +43,5 @@ class MainScene extends Scene
     shape_image.angle = 125;
 
 
-	}
+  }
 }
